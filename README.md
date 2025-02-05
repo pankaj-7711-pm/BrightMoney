@@ -9,7 +9,8 @@ The website is **fully responsive** and built using **HTML, CSS, and JavaScript*
 - Modern UI/UX  
 
 ## 📸 Screenshots  
-
+### **Mobile View**  
+![Mobile View](public/images/one.png)  
 
 
 ## 🚀 Live Demo  
