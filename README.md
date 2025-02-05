@@ -10,6 +10,15 @@ The website is **fully responsive** and built using **HTML, CSS, and JavaScript*
 
 ## 📸 Screenshots  
 
+### **Desktop View**  
+![Desktop View](public/screenshotdesktop/one.png)
+![Desktop View](public/screenshotdesktop/two.png)
+![Desktop View](public/screenshotdesktop/three.png)
+![Desktop View](public/screenshotdesktop/four.png)
+![Desktop View](public/screenshotdesktop/five.png)
+![Desktop View](public/screenshotdesktop/six.png)
+![Desktop View](public/screenshotdesktop/seven.png)
+
 ### **Tablet View**  
 ![Tablet View](public/screenshottablet/one.png)
 ![Tablet View](public/screenshottablet/two.png)
