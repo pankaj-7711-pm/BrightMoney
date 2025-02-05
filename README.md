@@ -9,6 +9,18 @@ The website is **fully responsive** and built using **HTML, CSS, and JavaScript*
 - Modern UI/UX  
 
 ## 📸 Screenshots  
+
+### **Tablet View**  
+![Tablet View](public/screenshottablet/one.png)
+![Tablet View](public/screenshottablet/two.png)
+![Tablet View](public/screenshottablet/three.png)
+![Tablet View](public/screenshottablet/four.png)
+![Tablet View](public/screenshottablet/five.png)
+![Tablet View](public/screenshottablet/six.png)
+![Tablet View](public/screenshottablet/seven.png)
+![Tablet View](public/screenshottablet/eight.png)
+![Tablet View](public/screenshottablet/nine.png)
+
 ### **Mobile View**  
 ![Mobile View](public/screenshotmobile/one.png)
 ![Mobile View](public/screenshotmobile/two.png)
