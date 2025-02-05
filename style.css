@@ -628,6 +628,10 @@
     align-items: center;
     width: 100%;
   }
+
+  #inside-features-div-main div p{
+   font-size: 20px;
+  }
 }
 
 @media only screen and (min-width: 641px) {
@@ -638,9 +642,11 @@
 
 @media only screen and (max-width: 439px) {
   .display-texts p{
-    font-size: 1rem;
+    /* font-size: 1rem; */
+    text-align: left;
   }
   #overlay-container{
     width: 90%;
+    border-radius: 2rem;
   }
 }
