@@ -10,7 +10,14 @@ The website is **fully responsive** and built using **HTML, CSS, and JavaScript*
 
 ## 📸 Screenshots  
 ### **Mobile View**  
-![Mobile View](public/images/one.png)  
+![Mobile View](public/screenshotmobile/one.png)
+![Mobile View](public/screenshotmobile/two.png)
+![Mobile View](public/screenshotmobile/three.png)
+![Mobile View](public/screenshotmobile/four.png)
+![Mobile View](public/screenshotmobile/five.png)
+![Mobile View](public/screenshotmobile/six.png)
+![Mobile View](public/screenshotmobile/seven.png)
+![Mobile View](public/screenshotmobile/eight.png)
 
 
 ## 🚀 Live Demo  
